@@ -1,0 +1,49 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 75%;
+    color: azure;
+}
+a{
+    font-style: italic;
+    font-weight: bold;
+    color: lime;
+}
+ol {
+    font-style: italic;
+}
+ul {
+    font-style: italic;
+}
+em {
+    color: lime;
+}
+.sideright {
+    float:right  
+}
+.sideleft {
+    float:inline-start;
+}
+.sidecenter {
+    columns: 100px 4;
+}
+.img {  
+    margin: 15px;
+    width: 50cm;
+}
+span {
+    color: blue;
+}
+.text-box {
+    border: 2px solid red;
+    padding: 6px;
+    margin: 20px;
+    background-color:floralwhite;
+}
+.send {
+    font-style: italic;
+
+}
+.spacelogo {
+    padding: 6px;
+    margin: 20px;
+}
