@@ -18,7 +18,7 @@ Akan names are derived from Ghanian culture. Frequently in Ghana, children are g
 
 ## Setup Instruction
 
-There is no any script required to run the application however you can visit the <strong>project link</strong>[here](https://chaxito.github.io/SafPrep2)
+There is no any script required to run the application however you can visit the <strong>project link</strong> [here](https://chaxito.github.io/SafPrep2)
 
 
 ## Technologies Used
