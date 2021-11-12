@@ -12,25 +12,25 @@ Author of this repository is <strong>Charles Muli</strong>. He is currently a st
 
 ## Project Description
 
-This project description is meant to build a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
+This project is meant to build a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
 
 Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.
 
 ## Setup Instruction
 
-There is no any script required to run to execute the application however you can visit the link [here](https://chaxito.github.io/SafPrep2)
+There is no any script required to run the application however you can visit the <strong>project link</strong>[here](https://chaxito.github.io/SafPrep2)
 
 
 ## Technologies Used
 
-The program will basically use JavaScript as the programming language and the bootstrap as a style language.
+The program will basically use JavaScript as the programming language and bootstrap as the style language.
 
 ## Contact Information
 
-For more information you can contact me via email <span>cmcharels.muli@gmail</span>.
+For more information you can contact me via email <span>cmcharels.muli@gmail.com</span>.
 
 ## Licence/Copyright
-For licence/copyright information check on the <a href="LICENCE.MD"><strong>Licence.md file.</strong></a>
+For licence/copyright information check on the <a href="LICENCE.md"><strong>Licence.md</strong></a> file.
 
 ## Credits
 Special appreciation given to Moringa School.
