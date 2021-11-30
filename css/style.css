@@ -24,6 +24,7 @@ em {
     float:inline-start;
 }
 .sidecenter {
+    float: center;
     columns: 100px 4;
 }
 .img {  
