@@ -329,6 +329,8 @@ label {
 }
 
 button {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
   border-radius: 0;
 }
 

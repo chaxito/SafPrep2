@@ -48,3 +48,7 @@ span {
     padding: 6px;
     margin: 20px;
 }
+.button {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
