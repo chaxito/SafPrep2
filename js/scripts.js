@@ -10,7 +10,7 @@ function lastPart(MM) {
 var year = Number (prompt("Which year were you born?"))
 var gender = prompt("What is your gender?")
 
-document.write()
+
 
 const firstPartResult = firstPart(10)
 const middlePartResult = middlePart(year)
