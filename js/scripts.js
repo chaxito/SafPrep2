@@ -10,12 +10,14 @@ function lastPart(MM) {
 var year = Number (prompt("Which year were you born?"))
 var gender = prompt("What is your gender?")
 
+document.write()
+
 const firstPartResult = firstPart(10)
 const middlePartResult = middlePart(year)
 const lastPartResult = lastPart(10)
 
 var calcResult = (firstPartResult + middlePartResult + lastPartResult + 10) % 7
-const wholeNumber = calcResult.toPrecision(1)
+const wholeNumber = calcResult.toFixed(0)
 alert(wholeNumber)
 
 const maleNames = ["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw","Kofi","Kwame"]
