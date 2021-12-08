@@ -19,8 +19,8 @@ var calcResult = (firstPartResult + middlePartResult + lastPartResult + 10) % 7
 const wholeNumber = calcResult.toFixed(0)
 alert(wholeNumber)
 
-const maleNames = ["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw","Kofi","Kwame"]
-const femaleNames = ["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"]
+const maleNames = ["Kwasi representing Sunday","Kwadwo representing Monday","Kwabena representing Tuesday","Kwaku rep Wednesday","Yaw representing Thursday","Kofi representing Friday","Kwame representing Saturday"]
+const femaleNames = ["Akosua representing Sunday","Adwoa representing Monday","Abenaa representing Tuesday","Akua representing Wednesday","Yaa representing Thursday","Afua representing Friday","Ama representing Saturday"]
 
 let result;
 if (gender == "male") {
