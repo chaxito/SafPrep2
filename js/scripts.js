@@ -11,7 +11,6 @@ var year = Number (prompt("Which year were you born?"))
 var gender = prompt("What is your gender?")
 
 
-
 const firstPartResult = firstPart(10)
 const middlePartResult = middlePart(year)
 const lastPartResult = lastPart(10)
@@ -30,6 +29,8 @@ if (gender == "male") {
     result = femaleNames[wholeNumber]
 } else {
     alert('Enter a valid gender')
-}
-alert(`Your Akan name is ${result}`)
+} 
+    alert(`Your Akan name is ${result}`)
+
+
 
